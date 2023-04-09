@@ -2,7 +2,7 @@
 #### Data Scientist
 ![Data Scientist](https://i.pinimg.com/564x/a9/b2/d0/a9b2d02d02105d549bee2b37bdc17750.jpg)
 
-My name is Anup Kamalsingh Rauthan, and I am a Full Stack Data Scientist. I possess a strong background in Mathematics, Statistics, and Algorithms, and hold a Bachelor of Engineering degree with a major in Mechanical Engineering.
+My name is Anup and I am deeply passionate about exploring and analyzing data to uncover patterns and trends that can inform business decisions. With my expertise in analyzing complex data sets and building predictive models, I have the skills necessary to make sense of data in a meaningful way. As a data science professional, I am committed to staying abreast of the latest developments and technologies in the field, and am always seeking new opportunities to learn and grow.
 
 Skills: python / MySQL / Excel / Tableau / Machine Learning
 
